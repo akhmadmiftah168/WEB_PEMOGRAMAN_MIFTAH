@@ -1,0 +1,8 @@
+body {
+    background-image: url('/img/bg1.jpg'); /* Ganti dengan path ke gambar Anda */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+
