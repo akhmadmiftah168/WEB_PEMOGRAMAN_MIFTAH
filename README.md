@@ -21,7 +21,7 @@
 
 Clone atau download repository
 
-`$ git clone https://github.com/MyFRA/penjualan-laravel.git`
+`$ git clone (https://github.com/akhmadmiftah168/WEB_PEMOGRAMAN_MIFTAH.git)`
 
 Duplikat atau salin file .env.example ke .env
 
@@ -29,14 +29,11 @@ Setting koneksi database di dalam file .env
 Setelah itu jalankan perintah berikut.
 
 `$ composer install` <br>
-`$ php artisan key:generate` <br>
-`$ php artisan migrate` <br>
-`$ php artisan db:seed` <br>
-`$ php artisan storage:link`
+`$ npm install` <br>
 
 
 
 ## Menjalankan
-
+`$ npm run dev` <br>
 `$ php artisan serve`
 <br><br>
